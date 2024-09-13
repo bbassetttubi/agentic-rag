@@ -1,0 +1,197 @@
+{
+  "poc": "Blake Bassett",
+  "last_updated": "Sep 2, 2024",
+  "sections": [
+    {
+      "title": "Purpose",
+      "content": "This document provides guidance for writing inputs for the Weekly Tech Org Update."
+    },
+    {
+      "title": "Terms",
+      "terms": {
+        "The What": {
+          "definition": "The core fact or result that you're reporting.",
+          "example": "X personalized recommendations feature boosts user retention from 60% to 75% over the last quarter."
+        },
+        "The Why": {
+          "definition": "The reason behind the result or fact.",
+          "example": "...because it better aligns content with user preferences."
+        },
+        "The So-What": {
+          "definition": "The implication or significance of the result.",
+          "example": "This improvement is projected to contribute an additional $1.2 million in revenue over the next fiscal year."
+        }
+      }
+    },
+    {
+      "title": "Weekly Updates",
+      "metrics": {
+        "description": "Lead with the name of the metric you moved beginning with the Platform(s) lifts and then Global lift in parentheses ().",
+        "example": {
+          "correct": "x experiment resulted in TVT +3.75% (1.2% Global)",
+          "incorrect": "x experiment resulted in 3% TVT lift"
+        },
+        "metric_names": [
+          { "name": "conversion-5min", "label": "Conversion" },
+          { "name": "registration", "label": "Registration" },
+          { "name": "conversion-5min-new_visitors_d1", "label": "D1 Conversion" },
+          { "name": "visit_days", "label": "Visit Days" },
+          { "name": "tvt", "label": "TVT" },
+          { "name": "qualified_view_days", "label": "QVD" }
+        ]
+      },
+      "titles_and_headings": {
+        "description": "Titles and headings should be no more than 8 words and must include a verb (action word).",
+        "example": {
+          "correct": "Mature age-gate garners uptick in new registrations.",
+          "incorrect": "A Significant Increase In New User Registrations Was Observed Due To The Implementation Of The Age-Gate Feature."
+        }
+      },
+      "dates": {
+        "description": "Use M/D for dates.",
+        "example": {
+          "correct": "9/2",
+          "incorrect": "09/02/2024"
+        }
+      },
+      "highlight_updates": {
+        "description": "Notable concluded experiments or launches with meaningful platform or topline impact.",
+        "structure": "<bolded descriptive title with a period.> <The What>. <The Why>. <The So-What?>. <link>.",
+        "example": {
+          "correct": "Watchlist feature increased user retention. The new Watchlist feature led to +1.23% Retention.",
+          "incorrect": "We released the Watchlist feature last week, and it is expected to improve user retention."
+        }
+      },
+      "flag_updates": {
+        "description": "Risks, blockers, or challenges that could negatively impact the project, timeline, or overall success.",
+        "structure": "<Bolded descriptive title with a period.> <The What>. <The Why>. <The So-What?>. <The proposed action or next steps> <link>.",
+        "example": {
+          "correct": "AWS CDN contract delay risks H1 goal. The delay in finalizing the AWS contract for the new content delivery network (CDN) could postpone the rollout of the x feature by up to four weeks, affecting our H1 target.",
+          "incorrect": "Contract delay. The vendor contract is taking longer than expected, which might delay the project."
+        }
+      },
+      "next_updates": {
+        "description": "Upcoming / planned (within 2 weeks) or ongoing experiments / launches.",
+        "structure": "<Bolded action item with a period.> <The What>. <The Why / intended outcome or purpose> <The So-What?>. <ETA M/D>. <link>.",
+        "example": {
+          "correct": "Deep learning cold start experiment. X deep learning-based ranking model will be rolled out to 20% of users next week.",
+          "incorrect": "Planning meeting for deep learning ranker. We plan to host an experiment planning meeting for x experiment next week."
+        }
+      }
+    },
+    {
+      "title": "General Guidance",
+      "guidance": {
+        "consider_audience": {
+          "description": "Always consider your audience. Stakeholders need clear, concise, and actionable information."
+        },
+        "brevity": {
+          "description": "Never use two words when one will do. Use adverbs sparingly.",
+          "example": {
+            "correct": "The update improved app load time by 40%.",
+            "incorrect": "The recent software update significantly and dramatically improved overall app load time by a notable 40%."
+          }
+        },
+        "active_voice": {
+          "description": "Use active voice. The subject of the sentence should perform the action.",
+          "example": {
+            "correct": "The product team analyzes user data.",
+            "incorrect": "User data is analyzed by the product team."
+          }
+        },
+        "commas": {
+          "description": "Use the Oxford/serial comma in a series.",
+          "example": {
+            "correct": "We offer movies, TV shows, and documentaries.",
+            "incorrect": "We offer movies, TV shows and documentaries."
+          }
+        },
+        "conjunctions": {
+          "description": "Place a comma before a conjunction when both sides could be standalone sentences.",
+          "example": {
+            "correct": "We need to review the analytics, and we should prepare a report.",
+            "incorrect": "We need to review the analytics and we should prepare a report."
+          }
+        },
+        "parallelism": {
+          "description": "Use the same pattern of words or structure in a series or list within a sentence.",
+          "example": {
+            "correct": "The new feature improves user engagement, increases retention, and boosts overall satisfaction.",
+            "incorrect": "The new feature improves user engagement, increases retention, and is boosting overall satisfaction."
+          }
+        },
+        "sentence_length": {
+          "description": "Sentences should include no more than 30 words; the fewer the better.",
+          "example": {
+            "correct": "The product team reduced app load time by 13% by optimizing the codebase and implementing a more efficient caching strategy.",
+            "incorrect": "The product team was able to significantly reduce the app load time by optimizing the existing codebase and refining backend processes."
+          }
+        },
+        "prepositions": {
+          "description": "Do not end a sentence with a preposition.",
+          "example": {
+            "correct": "The new feature includes options that users can easily navigate through during onboarding.",
+            "incorrect": "The new feature includes options that users can easily navigate through."
+          }
+        }
+      }
+    },
+    {
+      "title": "Appendix",
+      "progress_to_goal_format": [
+        {
+          "workstream": "Personalization & Recommendation",
+          "progress_against_goal": {
+            "capped_tvt": "+0.79% (15.8% relative progress to goal) – behind +5% H1 goal",
+            "conversion": "+0.31% (15.5% relative progress to goal) – behind +2% H1 goal"
+          }
+        }
+      ],
+      "workstream_updates": [
+        {
+          "workstream": "Personalization & Recommendation",
+          "owner": "Reve Groendyke",
+          "top_sub_workstreams": [
+            {
+              "name": "Core ranking and retrieval (hyper personalized returning user deep learning models)",
+              "status": "On-Track",
+              "progress": {
+                "metric": "<Goal metric>",
+                "status": "+#% – <behind, on-track, ahead> +#% H1 goal"
+              }
+            }
+          ],
+          "highlights": [
+            {
+              "title": "<Bolded descriptive title with a period.>",
+              "what": "<The What>",
+              "why": "<The Why>",
+              "so_what": "<So-What?>",
+              "link": "<link>"
+            }
+          ],
+          "flags": [
+            {
+              "title": "<Bolded descriptive title with a period.>",
+              "what": "<The What>",
+              "why": "<The Why>",
+              "so_what": "<So-What?>",
+              "action": "<The proposed action or next steps>",
+              "link": "<link>"
+            }
+          ],
+          "next_up": [
+            {
+              "title": "<Bolded action item with a period.>",
+              "what": "<The What>",
+              "why": "<The Why / intended outcome or purpose>",
+              "so_what": "<So-What?>",
+              "eta": "<ETA M/D>",
+              "link": "<link>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
