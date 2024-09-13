@@ -1,0 +1,189 @@
+{
+  "README": {
+    "Purpose": "Please follow the formats outlined in this doc for your weekly updates.",
+    "Production Timeline": {
+      "Wednesday COB": "Teams populate updates",
+      "Thursday": "VPs review updates",
+      "Friday": "Mike reviews updates",
+      "Monday": "Mike sends update to SLT and company"
+    },
+    "DRI Updates": {
+      "Required": [
+        "Workstream",
+        "Progress-to-goal tables"
+      ],
+      "Optional": [
+        "Metrics",
+        "Highlights",
+        "Flags",
+        "Up Next"
+      ],
+      "Additional Notes": "DRIs should provide relevant images of designs, user flows, etc. for their highlights."
+    },
+    "VP Updates": {
+      "Instruction": "VPs will pick select highlights, flags, and up-next items and copy and paste them to those sections at the top of the document.",
+      "Note": "Not all DRI inputs will be included in these sections."
+    }
+  },
+  "Update_09_16_2024": {
+    "Metrics": {
+      "Overall Trends": {
+        "August Revenue": "+19% YoY",
+        "QTD": "Aligned with budget",
+        "Forecast": "+17% YoY",
+        "MTD TVT": "140.72M Hrs, +7.44% YoY",
+        "Budget Expectation": "+23% YoY",
+        "Pacing vs Budget": "-6pp vs budget for Q1",
+        "Visitors": "+8.83% YoY",
+        "Daily View Time": "-1.40% YoY",
+        "Platform Contributions": {
+          "AMAZON": "-0.13M Hrs",
+          "Android TV": "+1.59M Hrs",
+          "ROKU": "+3.64M Hrs"
+        }
+      }
+    },
+    "Progress Against Tech H1 Goal": {
+      "New Viewer Conversion Rate": {
+        "Current": "-0.14%",
+        "Goal": "3.0%"
+      },
+      "Conversion Rate": {
+        "Current": "+0.23%",
+        "Goal": "4.6%"
+      },
+      "Visit Days": {
+        "Current": "+0.80%",
+        "Goal": "2.1%"
+      },
+      "TVT": {
+        "Current": "+0.86%",
+        "Goal": "10%"
+      }
+    },
+    "Workstream Progress": [
+      {
+        "Workstream": "Personalization & Recommendation",
+        "Goal": "Help users discover relevant content to watch",
+        "Progress": {
+          "TVT": "+1.47% (29.4% relative progress to goal), behind +5% H1 goal",
+          "Conversion": "+.46% (23% relative progress to goal), behind +2% H1 goal"
+        }
+      },
+      {
+        "Workstream": "Mobile",
+        "Goal": "Convert mobile engagement to the big screen",
+        "Progress": {
+          "Find PMF": "Metrics to be added in Sep",
+          "Mobile-to-OTT migration": "+0%, on track for 25% H1 stretch goal"
+        }
+      },
+      {
+        "Workstream": "Purple Carpet",
+        "Goal": "Successfully launch Purple Carpet",
+        "Progress": "On track"
+      },
+      {
+        "Workstream": "International",
+        "Goal": "Drive user acquisition and engagement through international expansion",
+        "Progress": {
+          "UK Weekly Revenue": "+14%, behind $1.8M goal",
+          "Conversion Reporting": "Paused until country-specific goals are established"
+        }
+      },
+      {
+        "Workstream": "Registration",
+        "Goal": "Maximize user identification to improve targeting",
+        "Progress": {
+          "Registration": "+0%, behind +22.6% goal toward 65% H1 goal"
+        }
+      },
+      {
+        "Workstream": "Search",
+        "Goal": "Help people find content they’ll love",
+        "Progress": {
+          "Conversion": "+0%, behind +1% H1 goal"
+        }
+      },
+      {
+        "Workstream": "Explore/Discovery",
+        "Goal": "Help people discover content to increase conversion and frequency",
+        "Progress": {
+          "Conversion": "+0.06%, behind +1.5% H1 goal"
+        }
+      },
+      {
+        "Workstream": "Player Experience",
+        "Goal": "Provide a high-quality player experience that maximizes revenue",
+        "Progress": {
+          "TVT": "+0.19%, behind +2.4% H1 goal",
+          "Revenue": "+0.25% ($963K), behind +0.96% (+$3.7M) H1 goal"
+        }
+      },
+      {
+        "Workstream": "New Viewer Experience",
+        "Goal": "Help new users understand/experience our value in their 1st session so they return in week 1",
+        "Progress": {
+          "D1 Conversion": "+0.24%, behind +3.1% H1 goal"
+        }
+      },
+      {
+        "Workstream": "Re-engagement",
+        "Goal": "Bring users back to Tubi",
+        "Progress": {
+          "Status": "Delayed due to launch of a global CRM holdout pushed to H2"
+        }
+      },
+      {
+        "Workstream": "Content Delivery Pipeline",
+        "Goal": "Onboard, enrich, and deliver content to audiences",
+        "Progress": {
+          "Avails v2": "Shipped 8/28",
+          "CMS Metadata Workflow Phase 1": "Re-estimating due to scope increase"
+        }
+      },
+      {
+        "Workstream": "Platform Distribution",
+        "Goal": "Make Tubi available on all major platforms",
+        "Progress": {
+          "D1 5-min conversion": "+0.24%, behind +3.1% H1 goal"
+        }
+      },
+      {
+        "Workstream": "Engineering Initiatives",
+        "Goal": "Build infrastructure to boost product/engineering velocity",
+        "Progress": {
+          "1080p Experiment 1.0": "Live, backend changes to pave way for UX experiments (end of Sep)"
+        }
+      },
+      {
+        "Workstream": "Data Initiatives",
+        "Goal": "Build the data foundation that powers services",
+        "Progress": "All ship goals on-track"
+      },
+      {
+        "Workstream": "Ads Support",
+        "Goal": "Improve monetization and ad experiences",
+        "Progress": {
+          "Global Revenue": "+0.23%, ahead of +0.32% H1 goal",
+          "Ad Load Decrease": "8-10%, ahead of 18% H1 goal"
+        }
+      }
+    ],
+    "Highlights": [
+      "Unpin linear row experiment shows +0.5% TVT lift and -14% linear TVT drop",
+      "Presidential debate pinning results in 136% increase in linear TVT"
+    ],
+    "Flags": [
+      "Roku and Pluto were promoting the Presidential debate, siphoning viewers",
+      "Need more ML resources to iterate on mobile scenes and image personalization"
+    ],
+    "Next Up": [
+      "DCN Content Ranker improvements",
+      "FireTV Gate 720p resolution",
+      "LLM Autodata in DCN Ranker",
+      "Title Art on Fire TV",
+      "Browse While Watching on FireTV"
+    ]
+  }
+}
