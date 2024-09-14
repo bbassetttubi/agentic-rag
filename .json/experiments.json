@@ -1,0 +1,404 @@
+[
+  {
+    "Experiment Name": "webott_web_analytics_anonymous_token",
+    "Workstream": "Engineering Initiatives",
+    "Owner": "Mark Lawson",
+    "Country": "Global",
+    "Platform": "WEB",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "7/10/24",
+    "Metrics": {
+      "conversion-5min": "0.11%",
+      "conversion-5min-new_visitors_d1": "0.49%",
+      "qualified_view_days": "0.06%",
+      "registration-did_authenticate": "0.13%",
+      "tvt": "0.04%",
+      "visit_days": "0.04%",
+      "tvt-capped": "0.04%"
+    }
+  },
+  {
+    "Experiment Name": "roku_related_cuepoint_v1",
+    "Workstream": "Engineering Initiatives",
+    "Owner": "Rigo Dhason",
+    "Country": "Global",
+    "Platform": "Roku",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "8/13/24",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "roku_autoplay_cuepoint_v2",
+    "Workstream": "Engineering Initiatives",
+    "Owner": "Rigo Dhason",
+    "Country": "Global",
+    "Platform": "Roku",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "8/20/2024",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "webott_web_containers_load_more_v2",
+    "Workstream": "Explore/Discovery",
+    "Owner": "Arun Shankar",
+    "Country": "Global",
+    "Platform": "WEB",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "7/15/2024",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "webott_firetv_top_nav_redesign_v3",
+    "Workstream": "Explore/Discovery",
+    "Owner": "Michael Depies",
+    "Country": "US",
+    "Platform": "OTT",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "7/30/2024",
+    "Metrics": {
+      "conversion-5min": "-0.03%",
+      "tvt": "-0.05%"
+    }
+  },
+  {
+    "Experiment Name": "webott_firetv_larger_poster_on_search_page_v2",
+    "Workstream": "Explore/Discovery",
+    "Owner": "Michael Depies",
+    "Country": "Global",
+    "Platform": "FireTV",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "8/1/2024",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "ios_top10_tv_v2",
+    "Workstream": "Explore/Discovery",
+    "Owner": "Michael Depies",
+    "Country": "US",
+    "Platform": "iOS",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "8/6/2024",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "webott_web_mobile_linear_programs_in_rows_v2",
+    "Workstream": "Explore/Discovery",
+    "Owner": "Liuying Zhang",
+    "Country": "Global",
+    "Platform": "WEB",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "8/7/2024",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "ml_top_10_tv_shows_roku_mobile",
+    "Workstream": "Explore/Discovery",
+    "Owner": "Michael Depies",
+    "Country": "US",
+    "Platform": "ALL",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "8/13/2024",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "roku_all_episiodes_v1",
+    "Workstream": "Explore/Discovery",
+    "Owner": "Jack Hand",
+    "Country": "Global",
+    "Platform": "Roku",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "8/27/24",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "ads_ott_dynamic_spacing_v3",
+    "Workstream": "Increase Monetization Efficiency",
+    "Owner": "Adam Carr",
+    "Country": "US",
+    "Platform": "OTT",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "7/23/24",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "ads_ott_ca_preroll_cap_duration_v2",
+    "Workstream": "Increase Monetization Efficiency",
+    "Owner": "Adam Carr",
+    "Country": "CA",
+    "Platform": "OTT",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "7/31/2024",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "tvos_remove_top_nav_v2",
+    "Workstream": "Mobile",
+    "Owner": "Pete Erni",
+    "Country": "Global",
+    "Platform": "tvOS",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "7/1/24",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "android_quick_seek",
+    "Workstream": "Mobile",
+    "Owner": "Pete Erni",
+    "Country": "Global",
+    "Platform": "Android",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "8/12/2024",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "android_thumbnail_seeking_v1",
+    "Workstream": "Mobile",
+    "Owner": "Pete Erni",
+    "Country": "US",
+    "Platform": "MOBILE",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "8/12/24",
+    "Metrics": {
+      "conversion-5min": "0.01%"
+    }
+  },
+  {
+    "Experiment Name": "ml_new_user_debias_tvt_relaunch",
+    "Workstream": "New Viewer Experience",
+    "Owner": "Hongfei Li",
+    "Country": "Global",
+    "Platform": "ALL",
+    "User Tenure": "New",
+    "Day of First Launch Date": "8/14/24",
+    "Metrics": {
+      "conversion-5min": "0.03%",
+      "conversion-5min-new_visitors_d1": "0.24%"
+    }
+  },
+  {
+    "Experiment Name": "onboarding_title_selection_automation_posterior_tvt",
+    "Workstream": "New Viewer Experience",
+    "Owner": "Honghong Zhao",
+    "Country": "US",
+    "Platform": "MOBILE",
+    "User Tenure": "New",
+    "Day of First Launch Date": "8/21/24",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "ios_onboarding_original_contents_v2",
+    "Workstream": "New Viewer Experience",
+    "Owner": "Léa Tran-Le",
+    "Country": "US",
+    "Platform": "iOS",
+    "User Tenure": "New",
+    "Day of First Launch Date": "8/27/2024",
+    "Metrics": {
+      "tvt": "0.02%"
+    }
+  },
+  {
+    "Experiment Name": "ml_returning_user_content_rank_series_debiased_v2",
+    "Workstream": "Personalization & Recommendation",
+    "Owner": "Sagar Lambor",
+    "Country": "Global",
+    "Platform": "ALL",
+    "User Tenure": "Returning",
+    "Day of First Launch Date": "8/13/24",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "container_rank_arrangement_v5",
+    "Workstream": "Personalization & Recommendation",
+    "Owner": "Reve Groendyke",
+    "Country": "Global",
+    "Platform": "ALL",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "8/14/2024",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "ml_returning_user_content_rank_dcn_finetune",
+    "Workstream": "Personalization & Recommendation",
+    "Owner": "Reve Groendyke",
+    "Country": "Global",
+    "Platform": "ALL",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "8/14/24",
+    "Metrics": {
+      "qualified_view_days": "0.18%",
+      "registration-did_authenticate": "0.41%",
+      "tvt": "0.33%"
+    }
+  },
+  {
+    "Experiment Name": "ml_returning_user_increase_personalized_ratio_relaunch",
+    "Workstream": "Personalization & Recommendation",
+    "Owner": "Reve Groendyke",
+    "Country": "Global",
+    "Platform": "ALL",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "8/21/2024",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "ml_returning_user_content_rank_dcn_extended_watchlist",
+    "Workstream": "Personalization & Recommendation",
+    "Owner": "Reve Groendyke",
+    "Country": "Global",
+    "Platform": "ALL",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "8/27/24",
+    "Metrics": {
+      "conversion-5min": "0.26%",
+      "qualified_view_days": "0.41%",
+      "tvt": "0.31%",
+      "visit_days": "0.23%",
+      "tvt-capped": "0.39%"
+    }
+  },
+  {
+    "Experiment Name": "webott_player_ott_samsung_use_hlsjs_2019_v0",
+    "Workstream": "Player Experience",
+    "Owner": "Yash Harish",
+    "Country": "Global",
+    "Platform": "Samsung",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "7/8/24",
+    "Metrics": {
+      "conversion-5min": "0.02%",
+      "conversion-5min-new_visitors_d1": "0.03%",
+      "qualified_view_days": "0.02%",
+      "registration-did_authenticate": "-0.01%",
+      "tvt": "0.04%",
+      "visit_days": "0.01%",
+      "tvt-capped": "0.03%"
+    }
+  },
+  {
+    "Experiment Name": "webott_firetv_guest_player_feedback",
+    "Workstream": "Player Experience",
+    "Owner": "Esther Tsui",
+    "Country": "Global",
+    "Platform": "FireTV",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "7/17/2024",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "webott_firetv_enable_start_position_on_aftmm",
+    "Workstream": "Player Experience",
+    "Owner": "Yash Harish",
+    "Country": "Global",
+    "Platform": "FireTV",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "7/24/24",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "webott_player_firetv_resume_downloading_segments_v0",
+    "Workstream": "Player Experience",
+    "Owner": "Yash Harish",
+    "Country": "Global",
+    "Platform": "OTT",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "7/25/2024",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "webott_lgtv_media_decode_error_recovery_v0",
+    "Workstream": "Player Experience",
+    "Owner": "Yash Harish",
+    "Country": "Global",
+    "Platform": "LGTV",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "7/30/2024",
+    "Metrics": {
+      "qualified_view_days": "0.00%",
+      "registration-did_authenticate": "0.01%",
+      "tvt": "0.00%",
+      "visit_days": "0.01%"
+    }
+  },
+  {
+    "Experiment Name": "webott_vizio_media_decode_error_recovery_v0",
+    "Workstream": "Player Experience",
+    "Owner": "Yash Harish",
+    "Country": "Global",
+    "Platform": "Vizio",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "7/30/24",
+    "Metrics": {
+      "qualified_view_days": "0.00%",
+      "tvt": "0.02%",
+      "tvt-capped": "0.01%"
+    }
+  },
+  {
+    "Experiment Name": "webott_comcast_resume_refactor_v1",
+    "Workstream": "Player Experience",
+    "Owner": "Yash Harish",
+    "Country": "Global",
+    "Platform": "Comcast",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "7/31/24",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "webott_firetv_play_content_when_playing_trailer_v2",
+    "Workstream": "Player Experience",
+    "Owner": "Yash Harish",
+    "Country": "Global",
+    "Platform": "OTT",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "7/31/2024",
+    "Metrics": {
+      "conversion-5min": "0.00%"
+    }
+  },
+  {
+    "Experiment Name": "webott_firetv_update_captions_icon",
+    "Workstream": "Player Experience",
+    "Owner": "Yash Harish",
+    "Country": "Global",
+    "Platform": "OTT",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "7/31/24",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "webott_samsung_skip_no_buffer_ad",
+    "Workstream": "Player Experience",
+    "Owner": "Yash Harish",
+    "Country": "Global",
+    "Platform": "ALL",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "8/22/24",
+    "Metrics": {
+      "qualified_view_days": "0.01%",
+      "registration-did_authenticate": "0.01%",
+      "tvt": "0.02%",
+      "visit_days": "0.02%"
+    }
+  },
+  {
+    "Experiment Name": "ios_home_linear_cache",
+    "Workstream": "Player Experience",
+    "Owner": "Esther Tsui",
+    "Country": "Global",
+    "Platform": "iOS",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "8/25/24",
+    "Metrics": {}
+  },
+  {
+    "Experiment Name": "webott_xboxone_invalid_character_error_recovery_v1",
+    "Workstream": "Player Experience",
+    "Owner": "Xin Zhang",
+    "Country": "Global",
+    "Platform": "XBOX",
+    "User Tenure": "ALL",
+    "Day of First Launch Date": "8/27/24",
+    "Metrics": {}
+  }
+]
